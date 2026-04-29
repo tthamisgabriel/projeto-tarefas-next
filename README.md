@@ -17,9 +17,3 @@ Projeto desenvolvido para praticar testes unitários em uma aplicação Next.js 
 - Jest
 - Testing Library
 
-## Como rodar o projeto
-
-Instale as dependências:
-
-```bash
-npm install
